@@ -1,0 +1,12 @@
+.cache
+crash-reports
+datapacks
+defaultconfigs
+logs
+saves
+schematics
+xaero
+emi.json
+options.txt
+usercache.json
+usernamecache.json
